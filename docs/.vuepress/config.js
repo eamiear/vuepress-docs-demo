@@ -1,7 +1,7 @@
 module.exports = {
 
   // 访问项目路径 http://localhost/vuepress/
-  base: '/vuepress/',
+  base: '/vuepress-docs-demo/',
 
   // 网站标题
   title: 'vuepress',
